@@ -1,2 +1,2 @@
 # diceGame
-diceGame for DOM manipulation
+diceGame for DOM manipulation practice
